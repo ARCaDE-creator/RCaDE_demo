@@ -1,0 +1,136 @@
+[
+    {
+        "id": "RCaDE2401",
+        "title_ja": "イルカはアゴで音を聞く！",
+        "title_en": "Dolphins hear with their jaws!",
+        "date": "2024-08-13",
+        "image_ja": "RCaDE2401.jpn.jpg",
+        "image_en": "RCaDE2401.eng.jpg",
+        "images_ja": [
+            "images/RCaDE2401/RCaDE2401_1.jpn.png",
+            "images/RCaDE2401/RCaDE2401_2.jpn.png",
+            "images/RCaDE2401/RCaDE2401_3.jpn.png",
+            "images/RCaDE2401/RCaDE2401_4.jpn.png"
+        ],
+        "images_en": [
+            "images/RCaDE2401/RCaDE2401_1.eng.png",
+            "images/RCaDE2401/RCaDE2401_2.eng.png",
+            "images/RCaDE2401/RCaDE2401_3.eng.png",
+            "images/RCaDE2401/RCaDE2401_4.eng.png"
+        ],
+        "description_ja": "<strong>耳たぶが無くなったイルカ</strong><br>ある時、イルカの祖先は水中での生活を選びました。しかし、泳ぐには邪魔だった耳たぶは無くなってしまいました。<br><br><strong>噛むことをやめたイルカ</strong><br>そんな中で、イルカたちはエサを噛まずに丸呑みするようになり、強いアゴの筋肉を使わなくなりました。<br><br><strong>耳になったイルカのアゴ肉</strong><br>使われなくなったアゴの筋肉は脂肪に変わり、この脂肪が水中の音をキャッチするのに最適だったのです。こうして、イルカはアゴ肉で音を聞くようになったのです。",
+        "description_en": "<strong>Dolphins Lossed Ear Flaps</strong><br>At one point, the ancestors of dolphins chose to live in the water. However, the ear flaps that got in the way of swimming disappeared.<br><br><strong>Dolphins Stopped Chewing</strong><br>Meanwhile, dolphins began swallowing their food whole, no longer using their strong jaw muscles.<br><br><strong>Dolphin Jaw Muscles Turned Into Ears</strong><br>The unused jaw muscles turned into fat, perfect for catching sounds underwater. This way, dolphins began to hear sounds with their jaw.",
+        "work_doi": "10.6084/m9.figshare.26762851.v1",
+        "paper_doi": "10.1016/j.gene.2024.148167"
+    },
+    {
+        "id": "RCaDE2402",
+        "title_ja": "コアラの食事は菌しだい？",
+        "title_en": "Koala Meals: It's All About Bacteria?",
+        "date": "2024-08-14",
+        "image_ja": "RCaDE2402.jpn.jpg",
+        "image_en": "RCaDE2402.eng.jpg",
+        "images_ja": [
+            "images/RCaDE2402/RCaDE2402_1.jpn.png",
+            "images/RCaDE2402/RCaDE2402_2.jpn.png",
+            "images/RCaDE2402/RCaDE2402_3.jpn.png",
+            "images/RCaDE2402/RCaDE2402_4.jpn.png"
+        ],
+        "images_en": [
+            "images/RCaDE2402/RCaDE2402_1.eng.png",
+            "images/RCaDE2402/RCaDE2402_2.eng.png",
+            "images/RCaDE2402/RCaDE2402_3.eng.png",
+            "images/RCaDE2402/RCaDE2402_4.eng.png"
+        ],
+        "work_doi": "10.6084/m9.figshare.26763184.v1",
+        "paper_doi": "10.7717/peerj.17385"
+    },
+    {
+        "id": "RCaDE2403",
+        "title_ja": "イラスト作品 3",
+        "title_en": "Illustration 3",
+        "date": "2024-09-01",
+        "image_ja": "RCaDE2403.jpn.jpg",
+        "image_en": "RCaDE2403.eng.jpg",
+        "images_ja": [
+            "images/RCaDE2401/RCaDE2401_1.jpn.png",
+            "images/RCaDE2401/RCaDE2401_2.jpn.png",
+            "images/RCaDE2401/RCaDE2401_3.jpn.png",
+            "images/RCaDE2401/RCaDE2401_4.jpn.png"
+        ],
+        "images_en": [
+            "images/RCaDE2401/RCaDE2401_1.eng.png",
+            "images/RCaDE2401/RCaDE2401_2.eng.png",
+            "images/RCaDE2401/RCaDE2401_3.eng.png",
+            "images/RCaDE2401/RCaDE2401_4.eng.png"
+        ],
+        "work_doi": "10.aaaaaa",
+        "paper_doi": "10.7717/peerj.17385"
+    },
+    {
+        "id": "RCaDE2404",
+        "title_ja": "イラスト作品 4",
+        "title_en": "Illustration 4",
+        "date": "2024-09-02",
+        "image_ja": "RCaDE2404.jpn.jpg",
+        "image_en": "RCaDE2404.eng.jpg",
+        "images_ja": [
+            "images/RCaDE2401/RCaDE2401_1.jpn.png",
+            "images/RCaDE2401/RCaDE2401_2.jpn.png",
+            "images/RCaDE2401/RCaDE2401_3.jpn.png",
+            "images/RCaDE2401/RCaDE2401_4.jpn.png"
+        ],
+        "images_en": [
+            "images/RCaDE2401/RCaDE2401_1.eng.png",
+            "images/RCaDE2401/RCaDE2401_2.eng.png",
+            "images/RCaDE2401/RCaDE2401_3.eng.png",
+            "images/RCaDE2401/RCaDE2401_4.eng.png"
+        ],
+        "work_doi": "10.bbbbbb",
+        "paper_doi": "10.7717/peerj.17385"
+    },
+    {
+        "id": "RCaDE2405",
+        "title_ja": "イラスト作品 5",
+        "title_en": "Illustration 5",
+        "date": "2024-09-03",
+        "image_ja": "RCaDE2405.jpn.jpg",
+        "image_en": "RCaDE2405.eng.jpg",
+        "images_ja": [
+            "images/RCaDE2401/RCaDE2401_1.jpn.png",
+            "images/RCaDE2401/RCaDE2401_2.jpn.png",
+            "images/RCaDE2401/RCaDE2401_3.jpn.png",
+            "images/RCaDE2401/RCaDE2401_4.jpn.png"
+        ],
+        "images_en": [
+            "images/RCaDE2401/RCaDE2401_1.eng.png",
+            "images/RCaDE2401/RCaDE2401_2.eng.png",
+            "images/RCaDE2401/RCaDE2401_3.eng.png",
+            "images/RCaDE2401/RCaDE2401_4.eng.png"
+        ],
+        "work_doi": "10.cccccc",
+        "paper_doi": "10.7717/peerj.17385"
+    },
+    {
+        "id": "RCaDE2406",
+        "title_ja": "イラスト作品 6",
+        "title_en": "Illustration 6",
+        "date": "2024-09-04",
+        "image_ja": "RCaDE2406.jpn.jpg",
+        "image_en": "RCaDE2406.eng.jpg",
+        "images_ja": [
+            "images/RCaDE2401/RCaDE2401_1.jpn.png",
+            "images/RCaDE2401/RCaDE2401_2.jpn.png",
+            "images/RCaDE2401/RCaDE2401_3.jpn.png",
+            "images/RCaDE2401/RCaDE2401_4.jpn.png"
+        ],
+        "images_en": [
+            "images/RCaDE2401/RCaDE2401_1.eng.png",
+            "images/RCaDE2401/RCaDE2401_2.eng.png",
+            "images/RCaDE2401/RCaDE2401_3.eng.png",
+            "images/RCaDE2401/RCaDE2401_4.eng.png"
+        ],
+        "work_doi": "10.dddddd",
+        "paper_doi": "10.7717/peerj.17385"
+    }
+]

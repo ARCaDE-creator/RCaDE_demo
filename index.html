@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RCαDE - ホーム</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html" class="logo-link">
+                <img src="./images/logo/logo.svg" alt="RCαDEロゴ">
+                <span>RCαDE</span>
+            </a>
+            <div id="language-toggle" class="language-toggle">
+                <a href="index.html" class="language-option active">日本語</a> /
+                <a href="index_en.html" class="language-option">English</a>
+            </div>
+            <nav>
+                <ul class="nav-links" id="nav-links">
+                    <li><a href="index.html">ホーム</a></li>
+                    <li><a href="works.html">作品</a></li>
+                </ul>
+                <div class="menu-toggle" id="menu-toggle">
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section id="home" class="intro">
+            <div class="intro-content">
+                <h1>生物学の研究成果を皆に広く届ける</h1>
+                <p>RCαDE（アーケード）では、最先端の生物学研究をわかりやすく伝えるため、各研究成果をイラストにまとめて紹介しています。</p>
+                <p>私たちの目標は、より多くの人に興味を持ってもらえる形で研究成果を発信し、多くの人に生物の面白さを知ってもらうことです。</p>
+                <p>本フォームでは、最新の研究成果を一覧で表示しています。興味のある研究成果をクリックすると詳細ページにアクセスできます。</p>
+                <div class="button-container">
+                    <a href="works.html" class="button">作品を見る</a>
+                </div>
+            </div>
+        </section>
+        <section id="works" class="new-works-section">
+            <div class="new-works-container">
+                <h2>新着作品</h2>
+                <div class="works-gallery" id="new-works-gallery"></div>
+            </div>   
+        </section>
+        <section id="twitter-feed" class="twitter-feed">
+            <div class="twitter-container">
+                <h2>最新の投稿</h2>
+                <div class="tweet">
+                    <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/RCaDE_sci">Posts by ARαDE</a>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Research Compendium and Digital Exhibition</p>
+    </footer>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>

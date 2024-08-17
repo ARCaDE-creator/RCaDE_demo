@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RCαDE - 作品一覧</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html" class="logo-link">
+                <img src="images/logo/logo.svg" alt="RCαDEロゴ">
+                <span>RCαDE</span>
+            </a>
+            <div id="language-toggle" class="language-toggle">
+                <a href="works_list.html" class="language-option active">日本語</a> /
+                <a href="works_list_en.html" class="language-option">English</a>
+            </div>
+            <nav>
+                <ul class="nav-links" id="nav-links">
+                    <li><a href="index.html">ホーム</a></li>
+                    <li><a href="works.html">作品</a></li>
+                </ul>
+                <div class="menu-toggle" id="menu-toggle">
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <input type="text" id="search-box" placeholder="検索...">
+
+        <section class="works-list2" id="works-list">
+
+            <div class="works-list-item">
+                <p><span class="label">RCαDE2401</span><span class="content">: イルカはアゴで音を聞く！</span></p>
+                <p><span class="label">DOI</span><span class="content">: 10.6084/m9.figshare.<br>&nbsp;&nbsp;26762851.v1</span></p>
+                <p><span class="label">投稿日</span><span class="content">: 2024-08-13</span></p>
+                <p><span class="label">監修</span><span class="content">: 竹内颯、早川卓志</span></p>
+                <p><span class="label">イラスト</span><span class="content">: 竹内颯</span></p>
+                <a href="works.html?main=RCaDE2401" class="illustration-link">イラストでの紹介はコチラ</a>
+                <a href="https://doi.org/10.1016/j.gene.2024.148167" class="paper-doi">原著論文はコチラ</a>
+            </div>
+
+            <div class="works-list-item">
+                <p><span class="label">RCαDE2402</span><span class="content">: コアラの食事は菌しだい？</span></p>
+                <p><span class="label">DOI</span><span class="content">: 10.6084/m9.figshare.<br>&nbsp;&nbsp;26763184.v1</span></p>
+                <p><span class="label">投稿日</span><span class="content">: 2024-08-14</span></p>
+                <p><span class="label">監修</span><span class="content">: 近藤虎太郎、早川卓志</span></p>
+                <p><span class="label">イラスト</span><span class="content">: 竹内颯</span></p>
+                <a href="works.html?main=RCaDE2402" class="illustration-link">イラストでの紹介はコチラ</a>
+                <a href="https://doi.org/10.7717/peerj.17385" class="paper-doi">原著論文はコチラ</a>
+            </div>
+
+            <!-- Add contents here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Research Compendium and Digital Exhibition</p>
+    </footer>
+
+    <!-- popup -->
+    <div id="popup" class="popup">
+        <span class="close">&times;</span>
+        <div class="popup-content">
+            <div class="popup-images">
+                <img src="" alt="Illustration">
+            </div>
+        </div>
+    </div>
+
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
